@@ -225,36 +225,36 @@ function create_config( )
     "set",
     "get",
     "broadcast",
-    "invite",
+    "plugins",
     "all",
     "leave_ban",
 	"supergroup",
 	"whitelist",
 	"msg_checks"
     },
-    sudo_users = {110626080,103649648,111020322,0,tonumber(our_id)},--Sudo users
+    sudo_users = {85831686},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v4
-An advanced administration bot based on TG-CLI written in Lua
+    about_text = [[#Sphero-bot #SuperGp_ver 1.2
+An advanced administration bot forked on TeleSeed
 
-https://github.com/SEEDTEAM/TeleSeed
+https://github.com/3pehrdev
 
-Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@POTUS [Developer]
-@seyedan25 [Manager]
-@aRandomStranger [Admin]
+#Admins
+@joker_admin_1 [DeveLoper-founder]
+@i_Crazy_Boy
+@SoLiD021
+@ClienT
+@parsaaelmi
 
-Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
+@Thanks_to
+BlackLifeTM
+SeedTM
+parsa blacklife
+mohammad blacklife
 
 Our channels
-@teleseedch [English]
-@iranseed [persian]
+@teleseedch [#Teleseed-Channel]
+@SpheroCh [#Sphero-Channel]
 
 Our website 
 http://teleseed.seedteam.org/
